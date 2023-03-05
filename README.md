@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakthim24
-- 👀 I’m interested in Web design and game development
-- 🌱 I’m currently learning web development
+- 👀 interested in Web design and game development
+- 🌱 currently learning web development
 -
 -.
 
